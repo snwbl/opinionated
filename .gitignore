@@ -1,0 +1,110 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+.venv
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Machine Learning specific
+*.h5
+*.pkl
+*.model
+*.joblib
+*.bin
+*.pt
+*.pth
+*.onnx
+*.tflite
+*.tfl
+*.lite
+*.mlmodel
+*.mlpackage
+
+# Generated files
+*.html
+*.log
+*.csv
+*.json
+!package.json
+!tsconfig.json
+!jsconfig.json
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# spaCy models
+*.spacy
+
+# Hugging Face models
+*.safetensors
+transformers/
+
+# Plotly
+.plotly/ 
+plan.md
